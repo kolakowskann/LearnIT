@@ -6,6 +6,7 @@ Main functionalities:
 - interface for users with place to add events
 - events will be added manually by the user and send to admin to review the proposal (in case of not to double events)
 - the user will be able to search events by date, city, language / subject
+
 Optional functionalities:
 - login part for the user
 - saving events in Google calnedar / print the list / save it on user account
